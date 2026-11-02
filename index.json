@@ -1,0 +1,11 @@
+{
+  "org": "zopefoundation",
+  "repo": "Acquisition",
+  "versions": [
+    {
+      "commit": "206990050ded1991313f57fe970be97ce2461502",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:01:51.225571+00:00"
+    }
+  ]
+}
